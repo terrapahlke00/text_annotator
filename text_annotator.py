@@ -1,7 +1,7 @@
 # text_annotator.py takes a text block from raw_text.py, the keyword_dictionary already defined,
 # and an annotation_path where the annotated .json file will be saved to.
 
-# libraries
+# -- Libraries --
 import json
 import os
 from raw_text import raw_text
