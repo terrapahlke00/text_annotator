@@ -1,4 +1,4 @@
-# Text Annotator with Keyword Categorization
+# Text Annotator Tool with Keyword Categorization
 This tool allows for the efficient annotation and categorization of text. Given a chunk of text, the program automatically parses it into sentences and prompts the user to input keywords for each sentence. Once a keyword is identified, the user is then asked to assign it to a predefined category or create a new category.
 
 ## Key features include:
