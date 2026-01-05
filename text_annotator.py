@@ -9,7 +9,7 @@ from raw_text import raw_text
 # Constants
 DICT_PATH = "keyword_dictionary.json"
 ANNOTATION_PATH = "annotations.json"
-NEW_FILE = False;
+NEW_FILE = False
 
 # --- Functions ---
 
